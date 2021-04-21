@@ -1,3 +1,5 @@
+<img src="demeter.png" width="49%" height="49%">
+
 # demeter
 ## Searching For Dwarf Galaxies in Gaia DR2 Using Wavelet Tranforms 
 Target lists and code available for: https://arxiv.org/abs/2012.00099
