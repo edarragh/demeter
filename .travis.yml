@@ -24,7 +24,7 @@ before_script:
   - sleep 3
 
 script:
-  - coverage run -m unittest test_demeter.py
+  - coverage run --source=. -m unittest test_demeter.py 
 
 after_success:
   - coveralls
