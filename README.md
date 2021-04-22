@@ -1,3 +1,15 @@
+.. image:: https://travis-ci.com/edarragh/demeter.svg?branch=main
+	:target: https://travis-ci.com/edarragh/demeter
+
+.. image:: https://coveralls.io/repos/github/edarragh/demeter/badge.svg?branch=main
+	:target: https://coveralls.io/repos/github/edarragh/demeter/badge.svg?branch=main
+
+.. image:: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
+    :target: https://github.com/edarragh/demeter/LICENSE
+
+.. image:: https://img.shields.io/badge/arXiv-2010.13787%20-yellowgreen.svg
+    :target: https://arxiv.org/abs/2012.00099
+   
 <img src="demeter.png" width="35%" height="35%">
 
 # demeter
