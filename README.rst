@@ -16,12 +16,8 @@ demeter - Searching For Dwarf Galaxies in Gaia DR2 Using Wavelet Tranforms
 .. image:: https://img.shields.io/badge/arXiv-2010.13787%20-yellowgreen.svg
     :target: https://arxiv.org/abs/2012.00099
 
-Target lists and code available for: https://arxiv.org/abs/2012.00099
-
 For human readable version of target lists visit: https://dwarfswaves.github.io
-
-* `Fitting a Model Using model_trainer <https://github.com/swagnercarena/ovejero/blob/master/demos/Train_Toy_Model.ipynb>`_:
 
 For getting started with the code implementation try: * _`wavelet_analysis_pipeline_example.ipynb <https://github.com/edarragh/demeter/blob/main/demos/wavelet_analysis_pipeline_example.ipynb>`_
 
-All functions available in [demeter.py](https://github.com/edarragh/demeter/blob/main/demeter.py)
+All functions available in * _`demeter.py <https://github.com/edarragh/demeter/blob/main/demeter.py>`_
