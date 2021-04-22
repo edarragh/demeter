@@ -3,4 +3,5 @@ pandas>=0.24.2
 scipy>=1.4.1
 sklearn
 torch
+PyWavelets
 pytorch_wavelets
