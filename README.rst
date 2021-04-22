@@ -16,7 +16,7 @@ demeter - Searching For Dwarf Galaxies in Gaia DR2 Using Wavelet Tranforms
 .. image:: https://img.shields.io/badge/arXiv-2010.13787%20-yellowgreen.svg
     :target: https://arxiv.org/abs/2012.00099
 
-Code to implement wavelet-based search for dwarf galaxies using position--proper motion informations of stars in the Milky Way 
+Code to implement wavelet-based search for dwarf galaxies using position-proper motion informations of stars in the Milky Way 
 
 For human readable version of target lists visit: https://dwarfswaves.github.io
 
