@@ -18,10 +18,10 @@ demeter - Searching For Dwarf Galaxies in Gaia DR2 Using Wavelet Tranforms
 
 Code to implement wavelet-based search for dwarf galaxies using position-proper motion informations of stars
 
+For a complete description of the search method see: https://arxiv.org/abs/2012.00099
+
 Candidate Lists
 ------------
-
-For a complete description of the search method see: https://arxiv.org/abs/2012.00099
 
 To download lists of candidate dwarf galaxies visit: https://github.com/dwarfswaves/dwarfswaves.github.io
 
