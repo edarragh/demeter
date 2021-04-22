@@ -14,7 +14,7 @@ before_install:
 install:
   - git clone https://github.com/edarragh/demeter
   - cd demeter
-  - pip install -e . -r requirements.txt
+  - pip install -r requirements.txt
 
 before_script:
   - "export DISPLAY=:99.0"
